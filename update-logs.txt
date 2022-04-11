@@ -1,0 +1,19 @@
+
+Version: 1.0.1 —-—-DATE: 09-December-2021
+
+1: Players Details page Added     
+
+=============================================
+
+Version: 1.0.2 —-—-DATE: 07-February-2022
+
+1: Teams Details Page Added    
+
+=============================================
+
+Version: 1.1.3 —-—-DATE: 06-April-2022
+
+1: Login & Register Page Added. 
+2: Bettle teams Page Added.
+3: Gatsby Plugin Update
+
