@@ -1,99 +1,37 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+ATOCRYPTOGMAE – React JS Gaming Website Template Detailed Description
+In order to create a professional gaming website, the web design needs to be sleek, elegant, and modern. The ATOCRYPTO gaming website template allows you to spread the word out for your own unique style. If you are looking for an ideal React JS-powered gaming web template for your desired outcome, ATOCRYPTO is one of the best solutions to bring your gaming passion online and be in charge of it. You can use it for multiple purposes such as a gaming shop website template, game portal website template, game review website template and so on.
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+# screenshot
+![bonx-react-js-gaming-website-template-with-gatsb-home](https://user-images.githubusercontent.com/89033750/162649247-11355d9e-c083-4385-a819-33970dcf1033.png)
+![bonx-react-js-gaming-website-template-with-gatsb-page1](https://user-images.githubusercontent.com/89033750/162649252-9e2fe108-72bf-4fb9-baad-721eaa0fcbe4.png)
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+The ATOCRYPTO React JS gaming web template is a great way to launch your next gaming website project. It comes with 20+ web pages and an eye-catching homepage that will attract visitors greatly at the first place! This impactful gaming website template is powered with the latest web technologies such as Tailwind CSS, React, and ATOMOTO latest version, etc.
 
-## 🚀 Quick start
+This template is linked to a series of JSON files via the GraphQL data layer and each file has been formatted in such an easy-to-understand way.
 
-1.  **Create a Gatsby site.**
+With ATOCRYPTO-gaming tournament website template by ATOMOTO, create a variety of pages for different purposes as it contains pages like homepage, match page, about page, game page, FAQ page, game players’ page, contact page, blog page, etc. One of the specialties of this template is its Match Page with which you can display the ongoing/upcoming matches, game stats, game update section, etc.With the Games page, you can present all the available games with their details. Also, it contains a wide variety of dynamic blog page layouts such as the left sidebar, right-sidebar, grid left sidebar, grid right sidebar, etc.
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+On top of that, ATOCRYPTO game portal website template incorporates a fully responsive layout that instantly adjusts to all modern devices, browsers, and screens.
 
-    ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
-    ```
+That’s not all, you will find tons of other features here such as Creative Design, Icon Font, Clean Markup, Free Updates,and Real Support.
 
-1.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-default-starter/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Your site is now running at `http://localhost:8000`!
-
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
-
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-## 🧐 What's inside?
-
-A quick look at the top-level files and directories you'll see in a Gatsby project.
-
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    └── README.md
-
-1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
-
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
-
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
-
-5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.com/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
-
-6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.com/docs/gatsby-config/) for more detail).
-
-7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.com/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
-
-8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.com/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
-
-9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
-
-10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
-
-11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-
-12. **`README.md`**: A text file containing useful reference information about your project.
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
-
--   **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
--   **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/cloud/)
-
-Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
-
-<!-- AUTO-GENERATED-CONTENT:END -->
+Features of ATOCRYPTO – React JS Gaming Website Template with ATOMOTO
+Build with latest React (v17.1.0)
+Build with latest ATOMOTO (v4.2.0)
+React Hooks used
+Blog Complete markdown format supported
+No jQuery Dependency
+Build with modern tailwindcss
+01 Home Variations
+Dynamic Blog, Games & Match Page
+Disqus Comment
+React Modal Video
+Fully Responsive Design
+ATOMOTO plugin image (v1.7.0)
+Clean Code
+Icofont Icons
+Speed Optimized
+SEO Friendly
+Cross Browser Support
+Well Documented
+No console error
